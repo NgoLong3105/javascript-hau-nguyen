@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "npm init\r (test command: npm run test, git repository:..., keywords: javascript, author: Ngo Long, license: MIT);",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Ngo Long",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
